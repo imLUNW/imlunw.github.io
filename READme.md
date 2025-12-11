@@ -3,6 +3,9 @@ body {
     background-color: #000000;
     color: #ffffff;
 }
+button {
+    border-radius: 50px;
+}
 </style>
 
 # Project/LunA
@@ -10,4 +13,4 @@ body {
 ### You can download:
 - LunWTools
 - QZoom Mod
-- <button onclick="alert('Привет!')" style="border-radius = 50px;">Кликни!</button>
+- <button onclick="alert('Привет!')">Кликни!</button>
