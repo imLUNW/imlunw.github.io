@@ -1,12 +1,12 @@
 <style>
 body {
-    background-color: #000000;
+    background-color: #151515;
     color: #ffffff;
 }
 button {
     border-radius: 50px;
     border: 0;
-    background-color: #252525;
+    background-color: #202020;
     color: #ffffff;
 }
 </style>
