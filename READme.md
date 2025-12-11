@@ -10,4 +10,4 @@ body {
 ### You can download:
 - LunWTools
 - QZoom Mod
-- <button onclick="alert('Привет!')">Кликни!</button>
+- <button onclick="alert('Привет!')" style="border-radius = 50px;">Кликни!</button>
