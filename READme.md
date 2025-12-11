@@ -7,6 +7,7 @@ button {
     border-radius: 50px;
     border: 0;
     background-color: #101010;
+    color: #ffffff;
 }
 </style>
 
@@ -15,4 +16,3 @@ button {
 ### You can download:
 - LunWTools
 - QZoom Mod
-- <button onclick="alert('Привет!')">Кликни!</button>
