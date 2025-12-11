@@ -16,17 +16,3 @@ button {
 ### You can download:
 - LunWTools <a href="https://github.com/imLUNW/LUNWTOOLS"><button>GitHub repos</button></a>
 - QZoom Mod <a href="https://github.com/imLUNW/QZoom-Q1.20.1"><button>GitHub repos</button></a>
-
-## i know:
-- c
-- c++
-- c#
-- java
-- javascript
-- python
-- lua
-- luau
-- md
-- html & css
-  
-## i live in Russia
