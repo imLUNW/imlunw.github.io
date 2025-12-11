@@ -6,7 +6,7 @@ body {
 button {
     border-radius: 50px;
     border: 0;
-    background-color: #101010;
+    background-color: #252525;
     color: #ffffff;
 }
 </style>
