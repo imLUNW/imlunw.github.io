@@ -15,4 +15,3 @@ button {
 ## Here you can see my projects
 ### You can download:
 - LunWTools <a href="https://github.com/imLUNW/LUNWTOOLS"><button>GitHub repos</button></a>
-- QZoom Mod <a href="https://github.com/imLUNW/QZoom-Q1.20.1"><button>GitHub repos</button></a>
